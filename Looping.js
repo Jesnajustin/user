@@ -1,5 +1,5 @@
 // for of loop
-var array =[1,45,34,56,78]
+var array =[1,45,34,56,33]
 for (const i of array){
     console.log(i);
 }
